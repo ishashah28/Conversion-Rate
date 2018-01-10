@@ -19,3 +19,6 @@ The project is to:
  - Predict conversion rate
  - Come up with recommendations for the product team and the marketing team to
    improve conversion rate
+
+The Python scrips are built in using scikit, numpy, pandas, matplotlib libraries in Jupyter notebook.
+The source code is attached to this repository.
